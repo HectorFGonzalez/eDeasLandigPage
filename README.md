@@ -1,2 +1,2 @@
-# eDeasLandigPage
-eDeas Soft Landing Page
+# eDeas Landing Page
+Landing page de eDeas Software
